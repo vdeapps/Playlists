@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Fun Radio
+http://streaming.radio.rtl.fr/fun-1-48-192
+#EXTINF:-1,Virgin Radio
+http://mp3lg4.tdf-cdn.com/9243/lag_164753.mp3
+#EXTINF:-1,NRJ
+http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=fluxradios
+#EXTINF:-1,RTL2
+http://streaming.radio.rtl2.fr/rtl2-1-44-128
+#EXTINF:-1,Chérie FM
+http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios
+#EXTINF:-1,R&C Premium
+http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios
+#EXTINF:-1,R&C Nouvelle génération
+http://cdn.nrjaudio.fm/adwz1/fr/30405/mp3_128.mp3?origine=fluxradios
+#EXTINF:-1,R&C Sketches
+http://cdn.nrjaudio.fm/adwz1/fr/30407/mp3_128.mp3?origine=fluxradios
+#EXTINF:-1,R&C Duos
+http://cdn.nrjaudio.fm/adwz1/fr/55601/mp3_128.mp3?origine=fluxradios
+#EXTINF:-1,Russian Radio
+http://play.russianradio.eu/
